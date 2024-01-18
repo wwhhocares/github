@@ -1,0 +1,49 @@
+/* styles.css */
+
+/* Add your custom styles here */
+
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.btn-primary {
+    background-color: #0366d6;
+    border-color: #0366d6;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.card-title {
+    color: #0366d6;
+}
+
+.card-text {
+    color: #586069;
+}
+
+.btn-outline-primary {
+    color: #0366d6;
+    border-color: #0366d6;
+}
+
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #0366d6;
+    border-color: #0366d6;
+}
+
+.spinner-border {
+    color: #0366d6;
+}
